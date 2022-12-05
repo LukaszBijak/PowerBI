@@ -4,7 +4,7 @@ Course on UDEMY "15 days of Power BI - Complete Microsoft Power BI Bootcamp"
 by Nikolai Schuller  
 https://www.udemy.com/course/15-days-of-power-bi/
 
-#### PBI DIAD:  
+#### Project Dashboard in a Day:  
 Project from studies - "Dashboard in a Day"  
 by Microsoft Power Platform  
 https://powerbi.microsoft.com/pl-pl/diad/
